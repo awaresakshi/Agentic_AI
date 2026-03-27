@@ -1,5 +1,5 @@
 
-# 🏦 AI-Powered Smart KYC Banking System
+# 🏦 Agentic AI For Intelligent Account Opening & Onboardibg
 
 An intelligent digital banking onboarding system that automates identity verification using AI agents.
 
