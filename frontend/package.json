@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^3.11.0"
+  },
+  "dependencies": {
+    "recharts": "^3.8.0"
+  }
+}
